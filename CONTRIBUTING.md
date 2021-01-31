@@ -24,7 +24,7 @@ end
 With a helpful comment explaining why this case is too tough to test.
 
 <details>
-<summary><b>Please do not use coverall's `skip_files` feature</b></summary>
+<summary><b>Please do not use coveralls' skip_files feature</b></summary>
 <br>
 
 Coveralls also allows ignoring by adding file patterns to the `coveralls.json`
