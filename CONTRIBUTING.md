@@ -88,6 +88,22 @@ We use two tools for linting: `mix compile --warnings-as-errors` and
 [`credo`](https://github.com/rrrene/credo). Either of these checks failing to
 pass will fail the CI, even for test files.
 
+<details>
+<summary><b>Why so stringent about test files?</b></summary>
+<br>
+
+It may seem overzealous to care so much about the linting and formatting of
+test files. They're just tests, right?
+
+We believe that more often than not, the testing suite of a library or service
+most clearly explains how that library or service works. Test suites are
+also integration-points between developers: a well-written suite attracts
+a community of fast-moving feature implementations and quick maintenance.
+Therefore we treat the readability and consistency of tests with paramount
+concern.
+
+</details>
+
 ### Bless
 
 To pull all of these checks together for development, we publish a
