@@ -12,4 +12,4 @@ Interested in joining us? Check out our [Jobs page].
 
 [nfi]: https://www.nfiindustries.com/
 [nfibrokerage]: https://github.com/NFIBrokerage
-[jobs]: https://example.org
+[jobs]: https://jobs.relaytms.com
