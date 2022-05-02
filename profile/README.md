@@ -8,7 +8,7 @@ We are `@NFIBrokerage`, a team of developers working at [NFI Industries][nfi]. W
 
 Check out some of our [open source libraries][nfibrokerage]!
 
-Interested in joining us? Check out our [Jobs page].
+Interested in joining us? Check out our [Jobs page][jobs].
 
 [nfi]: https://www.nfiindustries.com/
 [nfibrokerage]: https://github.com/NFIBrokerage
